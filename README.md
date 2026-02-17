@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Omm Prasad Jena 👨‍💻<br>B.Tech CSE @ ITER<br>love Machine Learning & Data Science.<br>I love turning ideas into real-world applications using Python and modern web technologies.<br>
+Hey there! I’m Omm Prasad Jena 👨‍💻<br>B.Tech CSE @ ITER<br>💬 Ask me about ML related stuff<br>I love turning ideas into real-world applications using Python and modern web technologies.<br>
 
 
 ## 🌐 Socials:
